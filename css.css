@@ -1,0 +1,19 @@
+.BOUBOU{
+    color: red;
+    font-size: 40px;
+    font-family: sans-serif;
+
+}
+header{
+    size: 10px;
+    background: rgb(41, 38, 38);
+}
+img{
+    width: 100%;
+}
+body{
+    margin: 0;
+}
+.BOUBOU h1{
+    text-align: center;
+}
